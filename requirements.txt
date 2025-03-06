@@ -1,0 +1,6 @@
+chalice
+boto3
+requests
+pytest
+openai
+dacite
