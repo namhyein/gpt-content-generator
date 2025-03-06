@@ -1,1 +1,1 @@
-# wineandnews-article-content-generator
+# content-generator
